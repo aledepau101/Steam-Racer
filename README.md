@@ -14,4 +14,4 @@ Features:
 - User-Friendly Interface: Clean and intuitive web interface
 
 
-You can give it a try here!: https://steam-racer.onrender.com/
+You can give it a try here!: https://steam-racer.vercel.app/
